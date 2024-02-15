@@ -1,0 +1,60 @@
+body{
+    background-color: #f0bdd0;
+}
+
+#titulo p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: darkred;
+}
+
+#titulo span{
+    font-size: 32px;
+    color: red;
+}
+
+#titulo img{
+    width: 25px;
+    height: 25px;
+}
+
+fieldset{
+    border: 2px solid black;
+    border-radius: 24px;
+}
+
+fieldset legend{
+    text-align: center;
+}
+
+fieldset p{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: 600;
+    color: darkblue;
+    line-height: 1.5;
+}
+
+fieldset legend img{
+    width: 25px;
+    height: 25px;
+}
+
+fieldset img{
+    width: 250px;
+    height: 250px;
+}
+
+a{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#final{
+    text-align: right;
+}
